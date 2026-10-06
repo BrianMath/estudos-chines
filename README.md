@@ -6,4 +6,5 @@ Feito para mim, falante de português, seguindo o material do [canal *mifi Chine
 - macros.typ: comandos personalizados
 - HKS2.typ: material sobre o HSK 2
     - Seguindo [essa playlist](https://youtube.com/playlist?list=PLKYS20dYGvh-yilCJhTIXXhAKPXDfNxjC&si=8iLFu65pujTGLdfa)
+- [main.pdf](https://brianmath.github.io/estudos-chines/main.pdf): PDf do material
 
