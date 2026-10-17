@@ -40,6 +40,9 @@
 #let adverbio = {
 	text(fill: green.darken(30%))[*advérbio*]
 }
+#let adjetivo = {
+	text(fill: red.lighten(20%))[*adjetivo*]
+}
 #let preposicao = {
 	text(fill: purple)[*preposição*]
 }

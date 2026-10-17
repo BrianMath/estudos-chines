@@ -8,6 +8,7 @@
 #set page(
 	margin: (x: 2em, y: 2em),
 	fill: blue.lighten(90%),
+	height: auto
 )
 
 #set par(
