@@ -1,7 +1,7 @@
 #import "macros.typ": *
 
 #subtitle[HSK 2]
-#section[Aula 1]
+#section[Aula 1 - Parte 1]
 
 - #pin[就]: [#adverbio] exatamente; precisamente
   - 他就是我的弟弟。
@@ -17,7 +17,7 @@
   - 我不是上周买的新车，是两周前买的。
     - Eu comprei o carro novo não foi semana passada não, foi duas semanas atrás.
 
-#section[Aula 2]
+#section[Aula 1 - Parte 2]
 
 - #pin[请]: [#verbo] pedir
   - 我想请你帮个忙
